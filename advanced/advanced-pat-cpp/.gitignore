@@ -1,0 +1,9 @@
+advanced-pat-python
+Debug
+*.opensdf
+*.sln
+*.suo
+*.sdf
+*.vcxproj
+*.vcxproj.filters
+ipch
