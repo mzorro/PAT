@@ -5,7 +5,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N; cin >> N;
 	auto lines = vector<string>(N);
 	auto rbegs = vector<string::reverse_iterator>(N);

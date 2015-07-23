@@ -5,7 +5,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int NC, NP;
 	priority_queue<int, vector<int>, greater<int> > cneg, pneg;
 	priority_queue<int> cpos, ppos;

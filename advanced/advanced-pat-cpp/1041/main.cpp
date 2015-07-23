@@ -6,7 +6,7 @@ using namespace std;
 int cnt[10005];
 int nums[100005];
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	memset(cnt, 0, sizeof(cnt));
 	memset(nums, -1, sizeof(nums));
 	int N, n;

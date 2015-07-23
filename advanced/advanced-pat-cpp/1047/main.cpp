@@ -15,7 +15,7 @@ struct Stu {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int NS, NC;
 	//cin >> NS >> NC;
 	scanf("%d%d", &NS, &NC);

@@ -7,7 +7,7 @@ using namespace std;
 
 vector<int> child[100];
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N, M;
 	cin >> N >> M;
 	while (M--) {

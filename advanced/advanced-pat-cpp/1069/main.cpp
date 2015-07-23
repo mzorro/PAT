@@ -29,7 +29,7 @@ void output(int numi) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int numi; cin >> numi;
 	do {
 		char numc1[5], numc2[5];

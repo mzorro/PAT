@@ -25,7 +25,7 @@ void get_options(vector<int> &chain, int N, int M,
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, M;
 	scanf("%d%d", &N, &M);
 	vector<int> chain(N+1, 0);

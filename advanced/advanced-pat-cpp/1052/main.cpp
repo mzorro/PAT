@@ -11,7 +11,7 @@ bool cmp(int head1, int head2) {
 	return keys[head1] < keys[head2];
 }
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, head;
 	scanf("%d%d", &N, &head);
 	int node, key, next;

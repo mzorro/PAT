@@ -43,7 +43,7 @@ struct Fraction {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	cin >> N;
 	Fraction f = Fraction(0, 1);

@@ -17,7 +17,7 @@ int toNumber(string s) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	cin >> N >> M >> K >> Ds;
 	vector<pair<int,int>> *matrix = new vector<pair<int,int>>[N+M+1];
 	string p1, p2;

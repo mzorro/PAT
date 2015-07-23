@@ -40,7 +40,7 @@ struct BinTree {
 } tree;
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	scanf("%d", &N);
 	stack<int> stk;

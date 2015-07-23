@@ -24,7 +24,7 @@ struct Student {
 };
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	scanf("%d%d%d", &N, &M, &K);
 	vector<int> capacity = vector<int>(M);
 	vector<vector<int> > accepted = vector<vector<int> >(M, vector<int>());

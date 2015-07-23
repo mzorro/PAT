@@ -22,7 +22,7 @@ LONG translate(string &num, LONG radix) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	string s1, s2;
 	LONG tag, radix;
 	cin >> s1 >> s2 >> tag >> radix;

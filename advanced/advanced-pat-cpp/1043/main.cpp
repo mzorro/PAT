@@ -63,7 +63,7 @@ Tree* build_tree(vector<int>::iterator beg,
 	}
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, n;
 	cin >> N;
 	while (N--) {

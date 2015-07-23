@@ -6,7 +6,7 @@ using namespace std;
 int seq[100005];
 bool vst[100005];
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	memset(vst, 0, sizeof(vst));
 	int N; cin >> N;
 	for (int i = 0; i < N; i++) {

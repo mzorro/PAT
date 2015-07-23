@@ -39,7 +39,7 @@ struct People {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, Q;
 	scanf("%d%d", &N, &Q);
 	vector<People> people(N);

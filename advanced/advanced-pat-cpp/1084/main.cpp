@@ -10,7 +10,7 @@ void toUpper(string &s) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	string s1, s2;
 	cin >> s1 >> s2;
 	toUpper(s1);

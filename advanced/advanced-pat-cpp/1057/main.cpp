@@ -6,7 +6,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	scanf("%d", &N);
 	stack<int> stk;

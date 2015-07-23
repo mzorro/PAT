@@ -3,7 +3,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	long G1, S1, K1, G2, S2, K2;
 	char c;
 	cin >> G1 >> c >> S1 >> c >> K1;

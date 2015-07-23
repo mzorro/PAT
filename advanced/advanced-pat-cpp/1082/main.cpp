@@ -36,7 +36,7 @@ bool toChinese(string num) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	string num; cin >> num;
 	if (num.front() == '-') {
 		res.push_back("Fu");

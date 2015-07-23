@@ -6,7 +6,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	string str;
 	getline(cin, str);
 	transform(str.begin(), str.end(), str.begin(), ::tolower);

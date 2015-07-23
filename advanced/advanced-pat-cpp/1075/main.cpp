@@ -21,7 +21,7 @@ struct User {
 	}
 };
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N, K, M;
 	cin >> N >> K >> M;
 	for (int i = 1; i <= K; i++) cin >> full[i];

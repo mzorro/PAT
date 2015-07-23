@@ -8,7 +8,7 @@ using namespace std;
 #define MAX_INT 0x7fffffff
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	vector<float> p1(2001, 0), p2(2001, 0);
 	set<int, greater<int>> exp1, exp2;
 	int N, exp;

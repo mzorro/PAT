@@ -4,7 +4,7 @@
 using namespace std;
 #pragma warning(disable:4996)
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	string num;
 	cin >> num;
 	if (num[0] == '-') cout << '-';

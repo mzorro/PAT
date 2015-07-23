@@ -29,7 +29,7 @@ long getNextPrime(long num) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	long N, n;
 	cin >> N;
 	n = N;

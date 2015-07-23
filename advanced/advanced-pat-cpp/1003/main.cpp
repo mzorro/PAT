@@ -32,7 +32,7 @@ void dfs(int cur, int dis, int res) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	cin >> N >> M >> C1 >> C2;
 	resouce = vector<int>(N);
 	matrix = vector<vector<pair<int, int> > >(N);

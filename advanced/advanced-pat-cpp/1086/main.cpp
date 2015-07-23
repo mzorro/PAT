@@ -32,7 +32,7 @@ BTree* build(int preBeg, int preEnd, int inBeg, int inEnd) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N; cin >> N;
 	stack<int> st;
 	int popCount = 0;

@@ -25,7 +25,7 @@ void print(int n) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int MSize, N;
 	cin >> MSize >> N;
 	MSize = getMinPrimeGT(MSize);

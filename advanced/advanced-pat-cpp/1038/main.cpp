@@ -17,7 +17,7 @@ public:
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	cin >> N;
 	set<mstring> nums;

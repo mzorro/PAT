@@ -38,7 +38,7 @@ string handle(string &num) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	cin >> N;
 	string num1, num2;
 	cin >> num1 >> num2;

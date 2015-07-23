@@ -12,7 +12,7 @@ string word[10] = {
 	"nine",
 };
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	string s;
 	cin >> s;
 	int sum = 0;

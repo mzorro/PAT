@@ -19,7 +19,7 @@ int group_max(int grpcnt) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int NP, NG;
 	scanf("%d%d", &NP, &NG);
 	for (int i = 0; i < NP; i++) {

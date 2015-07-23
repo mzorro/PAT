@@ -7,7 +7,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	map<int, float> poly;
 	set<int, greater<int>> exps;
 	int N, exp;

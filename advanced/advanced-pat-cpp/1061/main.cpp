@@ -8,7 +8,7 @@ char * const weekdays[7] = {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	string s1, s2, s3, s4;
 	cin >> s1 >> s2 >> s3 >> s4;
 	int weekday, hour, minutes;

@@ -24,7 +24,7 @@ double postOrder(int root) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	scanf("%d%lf%lf", &N, &P, &R);
 	R = 1 + R/100;
 	tree = vector<TNode>(N);

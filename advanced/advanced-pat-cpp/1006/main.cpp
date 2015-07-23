@@ -14,7 +14,7 @@ struct Person {
 };
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N; cin >> N;
 	set<Person> signin, signout;
 	string id, in, out;

@@ -27,7 +27,7 @@ int pnt[200] = {-1};
 int wet[200];
 int non_leaf[200];
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	memset(non_leaf, 0, sizeof(non_leaf));
 	int N, M, S;
 	scanf("%d%d%d", &N, &M, &S);

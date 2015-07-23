@@ -87,7 +87,7 @@ void printPath(int dst) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	cin >> N >> K;
 	happiness = vector<int>(N);
 	matrix = vector<vector<pair<int, int> > >(N, vector<pair<int, int> >());

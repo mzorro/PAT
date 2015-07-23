@@ -5,7 +5,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	cin >> N;
 	for (int i = 1; i <= N; i++) {

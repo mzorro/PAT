@@ -15,7 +15,7 @@ vector<int> stu[180000];
 vector<int> course[2600];
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, K;
 	scanf("%d%d", &N, &K);
 	for (int i = 0; i < K; i++) {

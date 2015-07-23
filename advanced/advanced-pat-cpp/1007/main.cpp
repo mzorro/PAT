@@ -11,7 +11,7 @@ int calc_sum(vector<int> &seq, int beg, int end) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N; cin >> N;
 	vector<int> seq(N);
 	for (int i = 0; i < N; i++) cin >> seq[i];

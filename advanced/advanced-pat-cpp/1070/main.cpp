@@ -19,7 +19,7 @@ struct Mooncake {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N;
 	double need;
 	cin >> N >> need;

@@ -13,7 +13,7 @@ bool cmp(int a1, int a2) {
 }
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, M;
 	cin >> N >> M;
 	for (int i = 1; i <= N; i++) {

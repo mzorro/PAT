@@ -18,7 +18,7 @@ void print(int addr, int value, int next) {
 }
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int head, N, K;
 	cin >> head >> N >> K;
 	int addr, value, next;

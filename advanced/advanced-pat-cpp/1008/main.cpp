@@ -5,7 +5,7 @@ using namespace std;
 #define MAX_INT 0x7fffffff
 
 int main() {
-	// freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	// freopen("..\\input.txt", "r", stdin);
 	int N; cin >> N;
 	int time = N * 5;
 	int stop = 0, i;

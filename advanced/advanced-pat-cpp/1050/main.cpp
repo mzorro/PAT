@@ -4,7 +4,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	string s1, s2;
 	getline(cin, s1);
 	getline(cin, s2);

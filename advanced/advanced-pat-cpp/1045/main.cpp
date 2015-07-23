@@ -6,7 +6,7 @@ using namespace std;
 
 int color_weight[201];
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	memset(color_weight, 0, sizeof(color_weight));
 	int N, color;
 	cin >> N >> N;

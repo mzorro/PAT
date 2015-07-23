@@ -5,7 +5,7 @@ using namespace std;
 #pragma warning(disable:4996)
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	long long N, p;
 	cin >> N >> p;
 	vector<long long> seq = vector<long long>(N);

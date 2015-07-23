@@ -50,7 +50,7 @@ struct Node{
 	}
 };
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, value;
 	cin >> N;
 	vector<int> a;

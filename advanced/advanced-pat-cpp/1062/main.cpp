@@ -29,7 +29,7 @@ struct People {
 };
 
 int main() {
-	//freopen("..\\advanced-pat-python\\test.txt", "r", stdin);
+	//freopen("..\\input.txt", "r", stdin);
 	int N, L, H;
 	scanf("%d%d%d", &N, &L, &H);
 	char id[10];
